@@ -1,0 +1,31 @@
+{
+  "name": "arrowak/remourse",
+  "description": "A remote resource based model provider. Basically uses URL based data instead of a Database.",
+  "keywords": [
+    "template",
+    "composer",
+    "package",
+    "remourse",
+    "arrowak"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Arun Kolhapur",
+      "email": "arunko350@gmail.com"
+    }
+  ],
+  "type": "library",
+  "require": {
+    "php": ">=7.1",
+    "guzzlehttp/guzzle": "6.3.3"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "6.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Arrowak\\Remourse\\": "src/"
+    }
+  }
+}
