@@ -63,7 +63,7 @@ class Remourse
     }
 
     /**
-     * @return null
+     * @return string
      */
     protected static function getBaseURL(): string
     {
