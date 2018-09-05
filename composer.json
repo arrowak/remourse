@@ -1,7 +1,7 @@
 {
   "name": "arrowak/remourse",
   "description": "A remote resource based model provider. Basically uses URL based data instead of a Database.",
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
   "license": "MIT",
   "keywords": [
     "template",
